@@ -24,10 +24,11 @@
   },
   "devDependencies": {
     "commitizen": "2.9.6",
+    "eslint": "^5.12.1",
     "semantic-release": "^6.3.2"
   },
   "config": {
-    "commitizen" : {
+    "commitizen": {
       "path": "./index.js"
     }
   }
