@@ -8,10 +8,10 @@
     "test": "echo 'Tests need to be setup!'",
     "semantic-release": "semantic-release pre && npm publish && semantic-release post"
   },
-  "homepage": "https://github.com/commitizen/cz-conventional-changelog",
+  "homepage": "https://github.com/vuetifyjs/cz-changelog-vuetify",
   "repository": {
     "type": "git",
-    "url": "https://github.com/commitizen/cz-conventional-changelog.git"
+    "url": "https://github.com/vuetifyjs/cz-changelog-vuetify.git"
   },
   "author": "Jim Cummins <jimthedev@gmail.com>",
   "license": "MIT",
