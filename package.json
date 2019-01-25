@@ -1,5 +1,5 @@
 {
-  "name": "cz-conventional-changelog",
+  "name": "cz-changelog-vuetify",
   "version": "0.0.0-semantically-released.0",
   "description": "Commitizen adapter following the conventional-changelog format.",
   "main": "index.js",
