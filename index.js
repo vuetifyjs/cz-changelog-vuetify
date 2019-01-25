@@ -1,7 +1,7 @@
-"format cjs";
+'format cjs'
 
-var engine = require('./engine');
-var conventionalCommitTypes = require('conventional-commit-types');
+var engine = require('./engine')
+var conventionalCommitTypes = require('conventional-commit-types')
 
 module.exports = engine({
   types: conventionalCommitTypes.types,
@@ -10,4 +10,4 @@ module.exports = engine({
   defaultSubject: process.env.CZ_SUBJECT,
   defaultBody: process.env.CZ_BODY,
   defaultIssues: process.env.CZ_ISSUES
-});
+})
