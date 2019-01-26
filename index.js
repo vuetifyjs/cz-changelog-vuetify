@@ -4,6 +4,7 @@ var engine = require('./engine')
 var conventionalCommitTypes = require('conventional-commit-types')
 
 var types = conventionalCommitTypes.types
+
 types.kitchen = {
   description: 'Related to kitchen',
   title: 'Kitchen'
