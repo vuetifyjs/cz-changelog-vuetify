@@ -1,7 +1,7 @@
 {
   "name": "cz-changelog-vuetify",
   "version": "0.0.0-semantically-released.0",
-  "description": "Commitizen adapter following the conventional-changelog format.",
+  "description": "Commitizen adapter for Vuetify following the conventional-changelog format.",
   "main": "index.js",
   "scripts": {
     "commit": "git-cz",
